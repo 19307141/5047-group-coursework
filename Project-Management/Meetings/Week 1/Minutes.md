@@ -14,10 +14,15 @@ The group discussed the coursework requirements and what would be required from 
 2. Subsystem Allocation
 The group decided which subsystem each member would be responsible for.
 
+
 Milan - Platform Operator
+
 Archie Philips - Student subsystem
+
 Saba Benhalima - Accommodation Office Subsystem
+
 Thomas Volkov - Warden Subsystem
+
 
 3. Responsibilities
 We discussed 
