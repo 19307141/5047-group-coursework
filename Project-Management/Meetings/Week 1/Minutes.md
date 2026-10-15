@@ -3,7 +3,7 @@ Time: 12PM
 Location: University
 
 Attendees:
-- Milan
+- Milan Malik
 - Archie Philips
 - Saba Benhalima
 - Thomas Volkov
