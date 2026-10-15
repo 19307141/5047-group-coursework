@@ -1,13 +1,13 @@
-Date: 22/09/2026
-Time: 11AM
-Location: University
-Chair: Milan Malik
-Minute Taker: Archie Philips
+# Date: 22/09/2026
+# Time: 11AM
+# Location: University
+# Chair: Milan Malik
+# Minute Taker: Archie Philips
 
-Purpose:
+# Purpose:
 Establish the group, understand what the coursework requires and start initial project setup
 
-Agenda:
+# Agenda:
 
 1. Introductions and confirmation of group members
 2. Review coursework specification
